@@ -9,7 +9,8 @@ import org.w3c.dom.Document;
 
 public class Main {
 	
-	private final static String PATH = "C:\\Users\\alex\\test.xml";
+//	private final static String PATH = "C:\\Users\\alex\\test.xml";
+	private final static String PATH = "resources\\testXml.xml";
 	
 	public static void main(String args[]){
 		
